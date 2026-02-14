@@ -1,0 +1,4 @@
+model,train_accuracy,test_accuracy,train_f1,test_f1
+kNN,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,1.0
